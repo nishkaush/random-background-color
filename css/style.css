@@ -1,0 +1,18 @@
+h1{
+	font-family:arial;
+	color:blue;
+	font-size:36px;
+	text-align: center;
+}
+
+button{
+	padding:10px;
+	background-color:red;
+	font-size: 20px;
+	border-color: red;
+	border-radius: 30px;
+}
+
+div{
+	text-align: center;
+}
